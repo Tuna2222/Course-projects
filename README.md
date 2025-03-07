@@ -6,5 +6,5 @@ Some course projects I have done.
     - STATS-606 Computation and Optimization Methods in Statistics: A survey on gradient-based methods: Escaping from saddle points.
 
 - University of Wisconsin, Madison
-    - COMP SCI 524 Introduction to Optimization: Solving a optimization problem regarding France air pollution data
+    - COMP SCI 524 Introduction to Optimization: Solving an optimization problem regarding France air pollution data
     - COMP SCI 839 Core Topics in Computing: Lecture notes on lexicographic differentiation (unfinished)
